@@ -1,6 +1,6 @@
 # OwnSEO License
 
-Copyright (c) 2025 -
+Copyright (c) 2025 - crowbeer
 
 Permission is granted to use, copy, modify, and distribute this software for **personal, educational, or non-commercial purposes only**, provided that this notice is included in all copies or substantial portions of the software.
 
